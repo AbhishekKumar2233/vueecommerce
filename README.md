@@ -18,12 +18,6 @@ yarn build
 
 ```
 
-## Screenshot
-
-![Vuemmerce - Ecommerce Template](screen.png "Vuemmerce - Ecommerce Browser Preview")
-
----
-
 
 Thanks for your interest!
 
